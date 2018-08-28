@@ -1,1 +1,1 @@
-# jekyllToyTemplate
+# jeckyll_barebones_template
